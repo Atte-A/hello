@@ -11,13 +11,6 @@ body {
   height: 100%;
 }
 
-button {
-  background-color: orange;
-  color: whitesmoke;
-  border: none;
-  border-radius: 10px;
-}
-
 main {
   text-align: center;
 }
